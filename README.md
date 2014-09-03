@@ -33,3 +33,9 @@ The objective is to be the the last player standing at the end of the season.
 ### Elimination
 1. If the player picks the winning team, he or she *survives* until next week.
 2. If the player picks the losing team, he or she is *eliminated* for the season.
+
+### The Pot
+1. JP
+2. Zig
+3. David
+4. Selvin
