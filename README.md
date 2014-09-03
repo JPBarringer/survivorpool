@@ -35,9 +35,11 @@ The objective is to be the the last player standing at the end of the season.
 1. If the player picks the winning team, he or she *survives* until next week.
 2. If the player picks the losing team, he or she is *eliminated* for the season.
 
-### The Pot (`$20`ea)
+### The Pot
 1. JP
 2. Zig
 3. David
 4. Selvin
 5. Natalie
+
+`* Player buy in for the *pot* has been set to **$20** each.`
