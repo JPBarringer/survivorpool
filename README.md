@@ -29,6 +29,7 @@ The objective is to be the the last player standing at the end of the season.
 1. Each player must pick *one* NFL team each week.
 2. Picks are made *straight up* (win/lose), no points spread math used.
 3. A player *cannot pick the same team twice* during the season.
+4. Picks must be final before the start of the first game for the current week.
 
 ### Elimination
 1. If the player picks the winning team, he or she *survives* until next week.
