@@ -2,7 +2,7 @@
 
 | Week | JP | Ben | Zig | Ron | Carlo | David | Selvin | Patrick | Natalie | Nicholas |
 |------|----|-----|-----|-----|-------|-------|--------|---------|---------|----------|
-| 1    |DET |     |     |     |       |       |CHI     |         |         |          |
+| 1    |DET |     |     |     |       |       |CHI     |         |NE       |          |
 | 2    |    |     |     |     |       |       |        |         |         |          |
 | 3    |    |     |     |     |       |       |        |         |         |          |
 | 4    |    |     |     |     |       |       |        |         |         |          |
@@ -39,3 +39,4 @@ The objective is to be the the last player standing at the end of the season.
 2. Zig
 3. David
 4. Selvin
+5. Natalie
