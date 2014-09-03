@@ -2,7 +2,7 @@
 
 | Week | JP | Ben | Zig | Ron | Carlo | David | Selvin | Patrick | Natalie | Nicholas |
 |------|----|-----|-----|-----|-------|-------|--------|---------|---------|----------|
-| 1    |DET |ARI  |CHI     |     |  DEN  |       |CHI     |         |NE       |          |
+| 1    |DET |ARI  |CHI  |     |  DEN  |       |CHI     |         |NE       |          |
 | 2    |    |     |     |     |       |       |        |         |         |          |
 | 3    |    |     |     |     |       |       |        |         |         |          |
 | 4    |    |     |     |     |       |       |        |         |         |          |
@@ -42,4 +42,4 @@ The objective is to be the the last player standing at the end of the season.
 4. Selvin
 5. Natalie
 
-`Player buy in for the **pot** has been set to **$20** each.`
+Player buy in for the **pot** has been set to **$20** each.
