@@ -35,7 +35,7 @@ The objective is to be the the last player standing at the end of the season.
 1. If the player picks the winning team, he or she *survives* until next week.
 2. If the player picks the losing team, he or she is *eliminated* for the season.
 
-### The Pot
+### The Pot (`$20`ea)
 1. JP
 2. Zig
 3. David
