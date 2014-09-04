@@ -2,7 +2,7 @@
 
 | Week | JP | Ben | Zig | Ron | Carlo | David | Selvin | Patrick | Natalie | Nicholas |
 |------|----|-----|-----|-----|-------|-------|--------|---------|---------|----------|
-| 1    |DET |ARI  |CHI  |     |  DEN  |       |CHI     |         |NE       |          |
+| 1    |DET |ARI  |CHI  |     |  DEN  |SF     |CHI     |         |NE       |          |
 | 2    |    |     |     |     |       |       |        |         |         |          |
 | 3    |    |     |     |     |       |       |        |         |         |          |
 | 4    |    |     |     |     |       |       |        |         |         |          |
